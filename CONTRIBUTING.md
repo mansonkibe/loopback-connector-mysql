@@ -1,9 +1,9 @@
 ### Contributing ###
 
-Thank you for your interest in `loopback-connector-mysql`, an open source project
+Thank you for your interest in `realken-mysql`, an open source project
 administered by StrongLoop.
 
-Contributing to `loopback-connector-mysql` is easy. In a few simple steps:
+Contributing to `realken-mysql` is easy. In a few simple steps:
 
   * Ensure that your effort is aligned with the project's roadmap by
     talking to the maintainers, especially if you are going to spend a

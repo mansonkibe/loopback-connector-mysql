@@ -14,7 +14,7 @@
 In your application root directory, enter this command to install the connector:
 
 ```sh
-npm install loopback-connector-mysql --save
+npm install realken-mysql --save
 ```
 
 This installs the module from npm and adds it as a dependency to the application's `package.json` file.
